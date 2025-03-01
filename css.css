@@ -59,5 +59,15 @@ img{
 }
 
 .jboton1{
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
+    font-size: 20px;
+    font-family: 'varela round', sans-serif;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: 0.3s;
     
 }
