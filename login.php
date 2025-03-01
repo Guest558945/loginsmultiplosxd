@@ -10,7 +10,7 @@ $contrasena_correcta = "1234";
         header('Location: home.html');
         exit();
     } else {
-        echo "Usuario o contraseña incorrectos";
+        echo "<script>alert('Usuario o contraseña incorrectos'); window.location= 'index.html'</script>";
     }
     
 
