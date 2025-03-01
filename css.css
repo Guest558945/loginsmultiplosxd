@@ -1,0 +1,56 @@
+:root{
+    --color-primario: #d1a0d3;
+    --color-secundario: #000000;
+    --color-terciario: #310404;
+}
+
+.fondo{
+    box-sizing: border-box;
+    background-color:var(--color-primario);
+    color:black;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+
+    
+    
+}
+h1{
+    font-size: 36px;
+    font-family: 'Krona One', sans-serif;
+    
+    color: var(--color-secundario);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    margin-top: 20px;
+}
+.usuarioLabel{
+    font-size: 20px;
+    font-family: 'varela round', sans-serif;
+    color:var(--color-secundario);
+    margin-top: 22px;
+    
+}
+
+.contrasenaLabel{
+    font-size: 20px;
+    font-family: 'varela round', sans-serif;
+    color:var(--color-secundario);
+    margin-top: 22px;
+    
+}
+.contenido{
+    margin: 20% 10% 20% 10%;
+    background-color: whitesmoke;
+    
+}
+
+.jboton1{
+    
+}
