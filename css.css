@@ -71,3 +71,8 @@ img{
     transition: 0.3s;
     
 }
+.formulario{
+    display : flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
